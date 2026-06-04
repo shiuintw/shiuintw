@@ -6,11 +6,22 @@
 
 I'm sophomore at National Yung Ming Chiao Tung University, major in Computer Science. Currently learning more about circuit design.
 
+## Titles
+
+115-1 ... TA. (in the plan)
+
 ## Project currently working on but not public.
+
 1. Domain-Specific Accelerator(DSA) on RISC-V CPU Aquila
-2. Some component optimizations in RISC-V CPU Aquila
+2. Some component optimizations on RISC-V CPU Aquila
 3. In-class project RPi 4 Embed System.
 
+## Building Softwares For Baremetal.
+
+>For CPU Aquila
+
+1. [Embench iot](https://github.com/shiuintw/embench-iot-on-Aquila)
+2. [CoreMarkPro](https://github.com/shiuintw/coremark-pro-on-Aquila)
 
 ## LeetCode of 1st Year
 
