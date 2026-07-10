@@ -1,7 +1,5 @@
 # 👋 Cheng-Yu, Hsu
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Circuit+Design+Learner)](https://git.io/typing-svg)
-
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,mysql,verilog&theme=dark)](https://skillicons.dev)
 
 I'm sophomore at National Yung Ming Chiao Tung University, major in Computer Science. Currently learning more about circuit design.
@@ -14,7 +12,6 @@ I'm sophomore at National Yung Ming Chiao Tung University, major in Computer Sci
 
 1. Domain-Specific Accelerator(DSA) on RISC-V CPU Aquila
 2. Some component optimizations on RISC-V CPU Aquila
-3. In-class project RPi 4 Embed System.
 
 ## Building Softwares For Baremetal.
 
