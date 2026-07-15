@@ -19,6 +19,7 @@ I'm sophomore at National Yung Ming Chiao Tung University, major in Computer Sci
 
 1. [Embench iot](https://github.com/shiuintw/embench-iot-on-Aquila)
 2. [CoreMarkPro](https://github.com/shiuintw/coremark-pro-on-Aquila)
+3. [GAP Benchmark Suite](https://github.com/shiuintw/gapbs-on-Aquila)
 
 ## LeetCode of 1st Year
 
